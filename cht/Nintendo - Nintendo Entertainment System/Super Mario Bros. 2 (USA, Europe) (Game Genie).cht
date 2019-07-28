@@ -1,4 +1,4 @@
-cheats = 19 
+cheats = 22 
 
 cheat0_desc = "Makes Mushrooms Fall Down"
 cheat0_code = "TINEXE"
@@ -75,3 +75,15 @@ cheat17_enable = false
 cheat18_desc = "Super Speed Enemies"
 cheat18_code = "AXNAZSAA+EVNALSEY"
 cheat18_enable = false
+
+cheat19_desc = "Infinite life meter (Except for Spikes)"
+cheat19_code = "GZELVXSE"
+cheat19_enable = false
+
+cheat20_desc = "Quick Pick Up"
+cheat20_code = "SXUASXOU"
+cheat20_enable = false
+
+cheat21_desc = "Super Turbo Running"
+cheat21_code = "XVVANSZK+XVNEXSZV"
+cheat21_enable = false
